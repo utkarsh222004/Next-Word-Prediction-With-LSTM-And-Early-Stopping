@@ -1,0 +1,2 @@
+# Next-Word-Prediction-With-LSTM-And-Early-Stopping
+Next Word Prediction using an LSTM model with Early Stopping. The project tokenizes text, builds input–output sequences, and trains a Keras LSTM network to predict the next word in a sentence. Early Stopping monitors validation loss to prevent overfitting and speed training. Includes scripts for data prep, training, and generating next-word pred.
